@@ -5,4 +5,4 @@ App uses constructors and methods for user game to guess letters
 If user guesses correct game he will win and wins will go up and if not he will loose
 
 images;
-![ScreenShot](https://raw.github.com/loreall17/WordGuessCli/master/{path})
+![ScreenShot](https://raw.github.com/loreall17/WordGuessCli/master/Screen Shot 2018-04-28 at 9.53.04 AM.png)
