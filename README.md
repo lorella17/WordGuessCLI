@@ -6,4 +6,4 @@ If user guesses correct game he will win and wins will go up and if not he will 
 
 images;
 ![ScreenShot](https://raw.github.com/lorella17/WordGuessCli/master/Screen_shot1.png?raw=true)
-![ScreenShot](https://raw.github.com/lorealla17/WordGuessCli/master/Screen_shot2.png?raw=true)
+![ScreenShot](https://raw.github.com/lorella17/WordGuessCli/master/Screen_shot2.png?raw=true)
